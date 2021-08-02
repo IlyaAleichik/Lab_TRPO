@@ -1,0 +1,7 @@
+C:\Users\Илья Алейчик\source\repos\ConsoleTotalComander\ConsoleTotalComander\bin\Debug\ConsoleTotalComander.exe.config
+C:\Users\Илья Алейчик\source\repos\ConsoleTotalComander\ConsoleTotalComander\bin\Debug\ConsoleTotalComander.exe
+C:\Users\Илья Алейчик\source\repos\ConsoleTotalComander\ConsoleTotalComander\bin\Debug\ConsoleTotalComander.pdb
+C:\Users\Илья Алейчик\source\repos\ConsoleTotalComander\ConsoleTotalComander\obj\Debug\ConsoleTotalComander.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\source\repos\ConsoleTotalComander\ConsoleTotalComander\obj\Debug\ConsoleTotalComander.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\source\repos\ConsoleTotalComander\ConsoleTotalComander\obj\Debug\ConsoleTotalComander.exe
+C:\Users\Илья Алейчик\source\repos\ConsoleTotalComander\ConsoleTotalComander\obj\Debug\ConsoleTotalComander.pdb

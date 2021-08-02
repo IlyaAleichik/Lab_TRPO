@@ -1,0 +1,28 @@
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\100 заданий_Практика\Less_6\Less_6\bin\Debug\Less_6.exe.config
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\100 заданий_Практика\Less_6\Less_6\bin\Debug\Less_6.exe
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\100 заданий_Практика\Less_6\Less_6\bin\Debug\Less_6.pdb
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\100 заданий_Практика\Less_6\Less_6\obj\Debug\Less_6.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\100 заданий_Практика\Less_6\Less_6\obj\Debug\Less_6.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\100 заданий_Практика\Less_6\Less_6\obj\Debug\Less_6.exe
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\100 заданий_Практика\Less_6\Less_6\obj\Debug\Less_6.pdb
+E:\Kolege\Program\100 заданий_Практика\Less_6\Less_6\bin\Debug\Less_6.exe.config
+E:\Kolege\Program\100 заданий_Практика\Less_6\Less_6\bin\Debug\Less_6.exe
+E:\Kolege\Program\100 заданий_Практика\Less_6\Less_6\bin\Debug\Less_6.pdb
+E:\Kolege\Program\100 заданий_Практика\Less_6\Less_6\obj\Debug\Less_6.csprojResolveAssemblyReference.cache
+E:\Kolege\Program\100 заданий_Практика\Less_6\Less_6\obj\Debug\Less_6.csproj.CoreCompileInputs.cache
+E:\Kolege\Program\100 заданий_Практика\Less_6\Less_6\obj\Debug\Less_6.exe
+E:\Kolege\Program\100 заданий_Практика\Less_6\Less_6\obj\Debug\Less_6.pdb
+C:\Users\Илья Алейчик\source\repos\Less_6\Less_6\bin\Debug\Less_6.exe.config
+C:\Users\Илья Алейчик\source\repos\Less_6\Less_6\bin\Debug\Less_6.exe
+C:\Users\Илья Алейчик\source\repos\Less_6\Less_6\bin\Debug\Less_6.pdb
+C:\Users\Илья Алейчик\source\repos\Less_6\Less_6\obj\Debug\Less_6.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\source\repos\Less_6\Less_6\obj\Debug\Less_6.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\source\repos\Less_6\Less_6\obj\Debug\Less_6.exe
+C:\Users\Илья Алейчик\source\repos\Less_6\Less_6\obj\Debug\Less_6.pdb
+C:\Users\Илья Алейчик\source\repos\1000\Less_6\obj\Debug\Less_6.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\source\repos\1000\Less_6\obj\Debug\Less_6.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\source\repos\1000\Less_6\obj\Debug\Less_6.exe
+C:\Users\Илья Алейчик\source\repos\1000\Less_6\obj\Debug\Less_6.pdb
+C:\Users\Илья Алейчик\source\repos\1000\Less_6\bin\Debug\Less_6.exe.config
+C:\Users\Илья Алейчик\source\repos\1000\Less_6\bin\Debug\Less_6.exe
+C:\Users\Илья Алейчик\source\repos\1000\Less_6\bin\Debug\Less_6.pdb

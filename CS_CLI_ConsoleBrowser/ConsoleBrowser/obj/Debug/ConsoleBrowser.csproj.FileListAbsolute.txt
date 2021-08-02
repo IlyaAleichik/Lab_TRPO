@@ -1,0 +1,7 @@
+C:\Users\Илья Алейчик\source\repos\ConsoleBrowser\ConsoleBrowser\bin\Debug\ConsoleBrowser.exe.config
+C:\Users\Илья Алейчик\source\repos\ConsoleBrowser\ConsoleBrowser\bin\Debug\ConsoleBrowser.exe
+C:\Users\Илья Алейчик\source\repos\ConsoleBrowser\ConsoleBrowser\bin\Debug\ConsoleBrowser.pdb
+C:\Users\Илья Алейчик\source\repos\ConsoleBrowser\ConsoleBrowser\obj\Debug\ConsoleBrowser.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\source\repos\ConsoleBrowser\ConsoleBrowser\obj\Debug\ConsoleBrowser.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\source\repos\ConsoleBrowser\ConsoleBrowser\obj\Debug\ConsoleBrowser.exe
+C:\Users\Илья Алейчик\source\repos\ConsoleBrowser\ConsoleBrowser\obj\Debug\ConsoleBrowser.pdb

@@ -1,0 +1,7 @@
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\Interpret_Command\Interpret_Command\bin\Debug\Interpret_Command.exe.config
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\Interpret_Command\Interpret_Command\bin\Debug\Interpret_Command.exe
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\Interpret_Command\Interpret_Command\bin\Debug\Interpret_Command.pdb
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\Interpret_Command\Interpret_Command\obj\Debug\Interpret_Command.csprojResolveAssemblyReference.cache
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\Interpret_Command\Interpret_Command\obj\Debug\Interpret_Command.csproj.CoreCompileInputs.cache
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\Interpret_Command\Interpret_Command\obj\Debug\Interpret_Command.exe
+C:\Users\Илья Алейчик\Documents\Visual Studio 2017\Projects\Interpret_Command\Interpret_Command\obj\Debug\Interpret_Command.pdb
